@@ -13,8 +13,8 @@ div div{
     display: inline;
 }    
 
-.li{
-    display: inline;
+li{
+    float: right;
 }
 
 .gmail{
@@ -37,6 +37,11 @@ font-family: arial;
 
 .signin{
     background-color: #3399ff;
+    border-color: transparent;
+    color: white;
+    height: 30px;
+    width: 80px;
+   
     
 }
 
@@ -49,11 +54,35 @@ font-family: arial;
 .searchbar{
     margin-left: auto;
     margin-right: auto;
-    width: 300px;
+    width: 550px;
 }
 
-.buttons{
+#searchb{
+    height: 30px;
+    width: 528px;
+    border-color: #f2f2f2;
+}
+#buttons{
     margin-left: auto;
     margin-right: auto;
     width: 300px;
+    
+}
+
+#searchbut{
+    background-color: #f2f2f2;
+    font-family: arial;
+    border-color: transparent;
+    padding: 8px 30px;
+    color: #404040;
+}
+
+#lucky{
+    background-color: #f2f2f2;
+    border-color: transparent;
+    font-family: arial;
+    font-weight: normal;
+    padding: 8px 30px;
+    color: #404040;
+
 }
