@@ -2,11 +2,45 @@ div{
     margin: 0;
     padding: 0;
 }
+
 div div{
     background-color: black;
     position: relative;
 }
+
+.ul{
+    
+}
+
 .gmail{
     font-family: arial;
     right: -100px;
+}
+
+.pictures{
+font-family: arial;    
+}
+
+.apps{
+    
+}
+
+.bell{
+    
+}
+
+.signin{
+    
+}
+
+.logo{
+    
+}
+
+.searchbar{
+    
+}
+
+.buttons{
+    
 }
