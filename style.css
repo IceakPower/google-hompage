@@ -1,0 +1,12 @@
+div{
+    margin: 0;
+    padding: 0;
+}
+div div{
+    background-color: black;
+    position: relative;
+}
+.gmail{
+    font-family: arial;
+    right: -100px;
+}
